@@ -1,0 +1,24 @@
+.handledone{
+  text-decoration: line-through;
+}
+
+ul {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+}
+
+li {
+  padding: 12px;
+  border-bottom: 1px solid #ccc;
+}
+
+.Done {
+  background-color: #ddffdd;
+
+}
+
+.delete-btn {
+  float: right;
+  font-size: 22px;
+  color: #999;
+}
